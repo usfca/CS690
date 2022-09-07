@@ -1,2 +1,1 @@
-# CS686
-Secure LoRa Network
+# Secure LoRa Network for Emmergency Communications
