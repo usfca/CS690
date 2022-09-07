@@ -1,1 +1,1 @@
-# Secure LoRa Network for Emmergency Communications
+# Secure LoRa Network for Emergency Communications
