@@ -1,0 +1,7 @@
+# FIXME! using the genpartitions based table doesn't work on TTGO so for now I stay with my old memory map
+# This is a layout for 4MB of flash
+# Name,   Type, SubType, Offset,  Size, Flags
+nvs,      data, nvs,     0x9000,  0x5000,
+otadata,  data, ota,     0xe000,  0x2000,
+app0,     app,  ota_0,   0x10000, 0x2A0000,
+spiffs,   data, spiffs,  0x2B0000,0x150000,
